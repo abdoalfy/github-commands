@@ -8,3 +8,33 @@
 6-git add .
 7-git commit -m "Your commit message"
 8-git push -u origin branch_name
+
+--------------------------------------------------------------------------------------------------------------------------------------
+
+1-in pranch meals 
+git add .
+git commit -m ""
+git push -u origin meals
+git switch dev
+git pull    
+git merge meals 
+git push
+
+تتاكد ان مفيش كونفليت
+كدا البرانش الي اسمه ميلز اتعلمه كويمت وبش علي الديف عن طريق اني بعد الكوميت والبوش علي برانش الميلز 
+بروح علي الديف واعمل بول وبعدين ميرج للميلز وبعدين بش 
+
+
+طب لو عاوز اروح للميلز اعدل حاجه 
+بقف جوه الميلز واعمل بول 
+
+
+
+
+لو عاوز اكريت برانش جديد
+
+git checkout -b food
+
+git push
+هيديك كوماند ترنه
+git push --set-upstream origin food
